@@ -2,7 +2,7 @@
 	<a-layout-header class="header">
 		<div class="header__logo">
 			<img src="../assets/logo.svg" alt="" />
-			<span class="name">Веселая ферма</span>
+			<span class="name">Веселая ферма, Ракитова Екатерина</span>
 		</div>
 	</a-layout-header>
 </template>
