@@ -4,8 +4,9 @@
 			<img src="../assets/logo.svg" alt="" />
 			<span class="name">Веселая ферма, Ракитова Екатерина</span>
 		</div>
-		
+
 	</a-layout-header>
+	
 </template>
 
 <style lang="scss" scoped>
